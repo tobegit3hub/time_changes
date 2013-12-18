@@ -23,9 +23,10 @@ Automatically change terminal background color, for FUN!
 
 * Then write script or crontab to roll!
 
+## Hava fun
 <pre>
  ________________________
-< Change As Time Changes >
+  Change As Time Changes 
  ------------------------
       \                    / \  //\
        \    |\___/|      /   \//  \\
