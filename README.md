@@ -1,5 +1,3 @@
-
-
 <pre>
   _   _                       _
  | |_(_)_ __ ___   ___    ___| |__   __ _ _ __   __ _  ___  ___
@@ -45,3 +43,6 @@ Automatically change terminal background color, for FUN!
                ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
                                                                   /.-~
 </pre>
+
+## Screenshot
+![background change](https://raw.github.com/tobegit3hub/time_changes/master/screenshot/background_changes.gif)
